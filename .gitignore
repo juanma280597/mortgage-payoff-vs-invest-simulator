@@ -29,3 +29,8 @@ dist-ssr
 # Development environment caches
 .npm/
 .gradle/
+
+# Shell home files
+.bashrc
+.bash_logout
+.profile
